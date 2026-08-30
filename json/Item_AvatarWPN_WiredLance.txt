@@ -226,7 +226,7 @@
 	{
 		"assign": "102042",
 		"jp_text": "＊ラッピーフウセン",
-		"tr_text": "",
+		"tr_text": "＊Rappy Balloon",
 		"jp_explain": "ラッピー好きのアークスにより作られた\n自在槍型武器迷彩。ラッピーへの\n並々ならぬ愛情が伝わってくる力作。",
 		"tr_explain": ""
 	},

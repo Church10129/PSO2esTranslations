@@ -590,7 +590,7 @@
 	{
 		"assign": "108083",
 		"jp_text": "＊パインアサシン",
-		"tr_text": "",
+		"tr_text": "＊Pine Assassin",
 		"jp_explain": "一部地域で、新年に使用される長銃型\n武器迷彩の高級限定品。厳選した素材を\n職人が丁寧に作り上げた。",
 		"tr_explain": ""
 	},

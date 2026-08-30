@@ -142,7 +142,7 @@
 	{
 		"assign": "1014021",
 		"jp_text": "＊リィンの太刀",
-		"tr_text": "＊Rean's Katana",
+		"tr_text": "＊Rean's Tachi",
 		"jp_explain": "「八葉一刀流」の指南を受けた少年の\n太刀を模した抜剣型武器迷彩。少年は\n中伝を受けるほどの実力だったという。",
 		"tr_explain": "Camo of the Katana used by a boy\nwho allegedly dropped out of the\nEight Leaves sword style training."
 	},

@@ -800,7 +800,7 @@
 	{
 		"assign": "1010133",
 		"jp_text": "＊レインボーボード",
-		"tr_text": "",
+		"tr_text": "＊Rainbow Board",
 		"jp_explain": "快適な使用感を追求した大剣型\n武器迷彩。虹の上を駆けるように\nスイスイ攻撃をくり出す。",
 		"tr_explain": ""
 	},
@@ -2774,7 +2774,7 @@
 	{
 		"assign": "101010275",
 		"jp_text": "＊アトラアルマティ",
-		"tr_text": "",
+		"tr_text": "＊Atlas Armati",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
 		"tr_explain": ""
 	}
